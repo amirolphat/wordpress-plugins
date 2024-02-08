@@ -11,4 +11,4 @@ USDT Tether :: Tron(TRC20)
 
 TKK9KpoV4zukdrpKTXNG1SdWjXuX8cwHeR
 
-![Donate](https://github.com/amirolphat/wordpress-plugins/blob/main/donate.jpg | width=200)
+![Donate](https://github.com/amirolphat/wordpress-plugins/blob/main/donate.jpg)
