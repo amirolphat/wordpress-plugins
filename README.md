@@ -5,8 +5,10 @@ I'm a website designer and developer since 2009. I've written some plugins for W
 Do you have something to do? Contact me through my LinkedIn page:
 [linkedin.](https://www.linkedin.com/in/amirolphat)https://www.linkedin.com/in/amirolphat
 
-Donate to get more plugins, development and support for these free scripts.
+**Donate to get more plugins, development and support for these free scripts.**
 
 USDT Tether :: Tron(TRC20)
+
 TKK9KpoV4zukdrpKTXNG1SdWjXuX8cwHeR
+
 ![Donate](https://github.com/amirolphat/wordpress-plugins/blob/main/donate.jpg)
