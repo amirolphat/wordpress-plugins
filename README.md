@@ -9,4 +9,4 @@ Donate to get more plugins, development and support for these free scripts.
 
 USDT Tether :: Tron(TRC20)
 TKK9KpoV4zukdrpKTXNG1SdWjXuX8cwHeR
-![Donate](https://hawasil.com/wp-content/uploads/2024/02/2147483648_-210842.jpg)
+![Donate](https://github.com/amirolphat/wordpress-plugins/blob/main/donate.jpg)
