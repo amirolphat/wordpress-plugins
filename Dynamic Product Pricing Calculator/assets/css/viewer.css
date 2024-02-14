@@ -1,0 +1,62 @@
+.sidebar{
+        background-color: #4f375e;
+        color: #fff;
+        border-radius: 5px;
+        padding: 0px;
+    }
+    table,th,td,tr, table td, table th{
+        border: 0px solid white;
+    }
+    .row{
+        margin-right: -4px;
+        margin-left: -4px;
+    }
+    .row .row .row h5.title {
+        margin-right: -25px;
+    }
+    button, .button{
+        width: 100%;
+        color: #69a32c;
+        background-color: #fff;
+        border: 0px solid white;
+        padding: 15px 0px;
+        font-weight: 900;
+    }
+    button:hover, button:hover {
+        background-color: #69a32c;
+        color: #fff;
+    }
+    body, p, h1,h2,h3,h4,h5,h6,small,span,table,tr,td,input, select, button{
+        font-family: 'Rubik';
+    }
+    input, input[type="text"], input[type="number"], select{
+        padding: 15px 20px;
+        background-color: #fff;
+        border: 1px solid #f9f6f6;
+        border-radius: 5px;
+        width: 100%;
+        margin-bottom: 10px;
+        color: black;
+    }
+    input[type="number"]{
+        padding: 10px 20px;
+    }
+    .title{
+        color: #585656;
+    }
+    label{
+        font-weight: 100;
+        padding: 16px 0px;
+    }
+    .scalefields{
+        /**background-color: #ededed4d;
+        margin: 4px 4px;
+        border-radius: 5px;**/
+        padding-top: 8px;
+    }
+    fieldset{
+        display: inline-block;
+    }
+    input[type=checkbox], input[type=radio]{
+        width: 50px;
+    }

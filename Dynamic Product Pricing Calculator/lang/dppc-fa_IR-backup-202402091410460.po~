@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. Author of the plugin
+msgid "Amir Olphat"
+msgstr "امیر الفت"
+
+#. Name of the plugin
+msgid "Dynamic Product Price Calculator"
+msgstr "محاسبه گر پویای قیمت محصولات"
+
+#. Description of the plugin
+msgid "Independent dynamic product price calculator from product table."
+msgstr "فرم محاسبه گر مستقل قیمت محصولات یا خدمات بدون وابستگی به ووکامرس یا سایر پلاگین ها."
+
+#: dppc.php:22
+msgid "Dynamic Product Table Price Calculator Data Management"
+msgstr "تستی"
+
+#: dppc.php:35
+msgid "Dynamic Product Price Calculator Form Data Management"
+msgstr "مدیریت داده های فرم محاسبه گر پویای قیمت"
