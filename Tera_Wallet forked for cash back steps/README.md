@@ -1,1 +1,1 @@
-![Screenshot](https://github.com/amirolphat/wordpress-plugins/Tera_Wallet%20forked%20for%20cash%20back%20steps/screenshots.jpg)
+![Screenshot](https://github.com/amirolphat/wordpress-plugins/blob/main/Tera_Wallet%20forked%20for%20cash%20back%20steps/screenshots.jpg)
