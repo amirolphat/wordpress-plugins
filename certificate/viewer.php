@@ -42,30 +42,30 @@ include_once(plugin_dir_path(__FILE__) . '/heading.php');
 		<div class="container">
 		    <img src="https://files.123freevectors.com/wp-content/original/141642-blue-and-orange-geometric-shapes-background-vector.jpg" style="width: 100%; object-fit: cover; height: 50px;"/>
 		    <div class="row">
-		    	<div class="col-lg-2"><img src="https://asanpazhooh.com/wp-content/uploads/2024/01/AsanPazhooh-Menu-Logo.png"/></div>
-		    	<div class="col-lg-2"><img src="https://asanpazhooh.com/wp-content/uploads/2024/01/Fani-Herfeii.png"/></div>
-		    	<div class="col-lg-8"></div>
+		    	<div class="col-lg-2 col-md-2 col-sm-2 col-print-2"><img src="https://asanpazhooh.com/wp-content/uploads/2024/01/AsanPazhooh-Menu-Logo.png"/></div>
+		    	<div class="col-lg-2 col-md-2 col-sm-2 col-print-2"><img src="https://asanpazhooh.com/wp-content/uploads/2024/01/Fani-Herfeii.png"/></div>
+		    	<div class="col-lg-8 col-md-8 col-sm-8 col-print-8"></div>
 		    </div>
 		    <div class="row">
-		        <div class="col-lg-12" style="text-align: center;">
-		            <h1>گواهی کارگاه </h1>
-		            <p class="bodynote">بدینوسیله گواهی می شود <?php echo $cer_row->certificate_name . ' ' . $cer_row->certificate_family; ?> به کد ملی <?php echo $cer_row->certificate_melicode; ?> در <?php echo $cer_row->certificate_vision; ?> که از تاریخ <?php echo $cer_row->certificate_fromdate; ?> الی <?php echo $cer_row->certificate_todate; ?> به مدت <?php echo $cer_row->certificate_duration; ?> توسط موسسه علی پژوهشی آسان پژوه برگزار گردید، شرکت نموده اند.</p>
+		        <div class="col-lg-12 col-md-12 col-sm-12 col-print-12" style="text-align: center;">
+		            <h1>گواهی کارگاه <?php echo $cer_row->certificate_vision; ?></h1>
+		            <p class="bodynote">بدینوسیله گواهی می شود <?php echo $cer_row->certificate_name . ' ' . $cer_row->certificate_family; ?> به کد ملی <?php echo $cer_row->certificate_melicode; ?> در <?php echo $cer_row->certificate_vision; ?> که از تاریخ <?php echo $cer_row->certificate_fromdate; ?> الی <?php echo $cer_row->certificate_todate; ?> به مدت <?php echo $cer_row->certificate_duration; ?> ساعت توسط موسسه علی پژوهشی آسان پژوه برگزار گردید، شرکت نموده اند.</p>
 		            <div class="row">
-		            	<div class="col-lg-4">مدیر علمی و اجرایی<br><?php echo $cer_row->certificate_sign1; ?></div>
-		            	<div class="col-lg-4">مدرس علمی<br><?php echo $cer_row->certificate_sign2; ?></div>
-		            	<div class="col-lg-4">مدرس علمی<br><?php echo $cer_row->certificate_sign3; ?></div>
+		            	<div class="col-lg-4 col-md-4 col-sm-4 col-print-4">مدیر علمی و اجرایی<br><?php echo $cer_row->certificate_sign1; ?></div>
+		            	<div class="col-lg-4 col-md-4 col-sm-4 col-print-4">مدرس علمی<br><?php echo $cer_row->certificate_sign2; ?></div>
+		            	<div class="col-lg-4 col-md-4 col-sm-4 col-print-4">مدرس علمی<br><?php echo $cer_row->certificate_sign3; ?></div>
 		            </div>
 		            <div class="row footernotes">
-		            	<div class="col-lg-8">
+		            	<div class="col-lg-8 col-md-8 col-sm-8 col-print-8">
 		            	    <div>
 				            <p class="addressnote">کرج، گوهردشت، بلوار موذن، بعد از بلوار دانشگاه، پلاک 750، واحد 1</p>
 				            <div class="row">
-				            	<div class="col-lg-6">تلفن: 026-34208393<br>کد پستی: 3148997718</div>
-				            	<div class="col-lg-6">asanpazhooh@gmail.com<br>www.asanpazhooh.com</div>
+				            	<div class="col-lg-6 col-md-6 col-sm-6 col-print-6">تلفن: 026-34208393<br>کد پستی: 3148997718</div>
+				            	<div class="col-lg-6 col-md-6 col-sm-6 col-print-6">asanpazhooh@gmail.com<br>www.asanpazhooh.com</div>
 				            </div>
 			            </div>
 		            	</div>
-		            	<div class="col-lg-4" style="text-align: right;">
+		            	<div class="col-lg-4 col-md-4 col-sm-4 col-print-4" style="text-align: right;">
 		            		<?php echo 'شناسه اعتبارسنجی: ' . $request_id; ?><br><br>
 		            		<div id="qrcode"></div>
 		            		<br>
@@ -89,7 +89,7 @@ include_once(plugin_dir_path(__FILE__) . '/heading.php');
 ?>
 		<div class="container">
 		    <div class="row" style="margin-top: 100px;">
-		        <div class="col-lg-12" style="text-align: center;">
+		        <div class="col-lg-12 col-md-12 col-sm-12 col-print-12" style="text-align: center;">
 		        	<form action="" method="get">
 		        		<input name="id" type="number" placeholder="شناسه اعتبارسنجی گواهی">
 		        		<br><br>

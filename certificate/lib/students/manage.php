@@ -14,7 +14,7 @@
           
           foreach ($cer_results as $cer_row) {
             echo '<tr style="background-color: #d5dfe8;">';
-            echo '<td><a href="admin.php?page=certificate&del=' . $cer_row->certificate_id . '"<i class="wp-menu-image dashicons-before dashicons-trash"></i></a></td>';
+            echo '<td><a href="admin.php?page=certificate&del=' . $cer_row->certificate_id . '"<i class="wp-menu-image dashicons-before dashicons-trash"></i></a> &nbsp;&nbsp;&nbsp;<a target="_blank" href="https://asanpazhooh.com/certificate/?id=' . $cer_row->certificate_id . '"<i class="wp-menu-image dashicons-before dashicons-visibility"></i></a></td>';
             echo '<td>' . $cer_row->certificate_name . '</td>';
             echo '<td>' . $cer_row->certificate_family . '</td>';
             echo '<td>' . $cer_row->certificate_vision . '</td>';
