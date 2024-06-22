@@ -4,9 +4,8 @@ $result = null;
 if(isset($_POST['weight'])){
     $weight = $_POST['weight'];
     $height = $_POST['height'];
-    $height = $height / 100;
-    $height_square = $height * $height;
-    $result = $weight / $height_square;
+    $height = $height;
+    $result = $weight / (($height / 100) ** 2);
     if($result <= 18.5){
         $result = 'Your BMI: ' . round($result) . '. You are in poor physical condition. You are underweight.';
     }elseif($result >= 18.6 && $result <= 24.9){
